@@ -1,0 +1,14 @@
+{
+  "name": "com.studio.platformer-character-tool",
+  "version": "1.0.0",
+  "displayName": "Platformer Character Tool",
+  "description": "ScriptableObject-based character designer for platformer games. Includes a custom EditorWindow and a custom Inspector.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Ghuztavo"
+  },
+  "keywords": ["platformer", "character", "tool", "scriptable object"],
+  "dependencies": {
+    "com.unity.inputsystem": "1.14.2"
+  }
+}

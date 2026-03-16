@@ -1,0 +1,18 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE / Code Editor files
+.idea/
+.vs/
+.vscode/
+*.csproj
+*.sln
+
+# Ignore package manager config if Unity generates it here
+Packages/
